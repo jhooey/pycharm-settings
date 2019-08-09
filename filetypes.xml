@@ -17,7 +17,9 @@
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="secrets" type="PLAIN_TEXT" />
+      <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern="photos" type="PLAIN_TEXT" />
+      <mapping pattern="test.sql" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
