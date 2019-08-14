@@ -13,6 +13,7 @@
       <mapping pattern="photos_round_3" type="PLAIN_TEXT" />
       <mapping pattern="photos_round_2" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern="user.py" type="PLAIN_TEXT" />
       <mapping pattern="photos_migrate" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
