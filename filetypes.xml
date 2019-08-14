@@ -4,25 +4,24 @@
     <extensionMap>
       <mapping ext="dev" type="Ini" />
       <mapping pattern="DOCKER_FIRST_RUN_COMPLETE" type="Native" />
-      <mapping pattern="secrets" type="PLAIN_TEXT" />
-      <mapping pattern="photos_migrate" type="PLAIN_TEXT" />
-      <mapping pattern="sql" type="PLAIN_TEXT" />
+      <mapping pattern="customer_share-able" type="PLAIN_TEXT" />
       <mapping pattern="parsnip_errors" type="PLAIN_TEXT" />
-      <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="things" type="PLAIN_TEXT" />
-      <mapping pattern="test2" type="PLAIN_TEXT" />
-      <mapping pattern="test.sql" type="PLAIN_TEXT" />
-      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="photographer_photos" type="PLAIN_TEXT" />
+      <mapping pattern="photos_round_5" type="PLAIN_TEXT" />
       <mapping pattern="photos_round_4" type="PLAIN_TEXT" />
       <mapping pattern="photos_round_3" type="PLAIN_TEXT" />
       <mapping pattern="photos_round_2" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern="user.py" type="PLAIN_TEXT" />
+      <mapping pattern="photos_migrate" type="PLAIN_TEXT" />
+      <mapping pattern="touch" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="secrets" type="PLAIN_TEXT" />
+      <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern="photos" type="PLAIN_TEXT" />
-      <mapping pattern="customer_share-able" type="PLAIN_TEXT" />
-      <mapping pattern="photos_round_5" type="PLAIN_TEXT" />
+      <mapping pattern="test.sql" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping pattern="user.py" type="Python" />
-      <removed_mapping pattern="user.py" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
