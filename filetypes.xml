@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="dev" type="Ini" />
       <mapping pattern="DOCKER_FIRST_RUN_COMPLETE" type="Native" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
@@ -11,27 +12,27 @@
       <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="init" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="test2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="parsnip_errors" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="things" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="photographer_photos" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="touch" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="photos_round_5" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="photos_migrate" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="user.py" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sql" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="secrets" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="test.sql" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="customer_share-able" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="init" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="photos_round_4" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="photos_round_3" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="photos_round_2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sql" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="photos_round_2" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="photos_round_4" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="customer_share-able" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="photos_round_5" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="user.py" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="photos_round_3" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="secrets" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="photos" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
